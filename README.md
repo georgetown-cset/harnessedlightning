@@ -1,6 +1,6 @@
 # Raw Data Used in the Production of _Harnessed Lightning_
 
-In the interest of transparency and research replicability, CSET is releasing the raw contract award data used in the production of its October 2021 report, “Harnessed Lightning: [How the Chinese Military is Adopting Artificial Intelligence](https://cset.georgetown.edu/publication/harnessed-lightning/).” This repository includes 343 notices of AI-related contracts awarded by the Chinese People’s Liberation Army and state-owned defense enterprises between April and November of 2020.
+In the interest of transparency and research replicability, CSET is releasing the raw contract award data used in the production of its October 2021 report, “[Harnessed Lightning: How the Chinese Military is Adopting Artificial Intelligence](https://cset.georgetown.edu/publication/harnessed-lightning/).” This repository includes 343 notices of AI-related contracts awarded by the Chinese People’s Liberation Army and state-owned defense enterprises between April and November of 2020.
 
 Each tender in CSET’s PLA procurement dataset includes seven variables taken directly from the contract: title, public_unit, information_type, content, created, deadline, and project_number. Wherever possible, the authors manually extracted another three fields from each tender’s content cell for use in the report’s analysis: end_user, supplier, and contract_value_RMB. All ten fields are listed below:
 
